@@ -1,4 +1,4 @@
 {
   "isopen": 0,
-  "address": ""
+  "address": "http://18.162.217.151:1250/temp/20230905/web-mobile/index.html"
 }
