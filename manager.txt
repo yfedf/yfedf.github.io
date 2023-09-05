@@ -1,4 +1,4 @@
 {
-  "goto": 0,
+  "isopen": 0,
   "address": ""
 }
