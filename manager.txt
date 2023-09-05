@@ -1,4 +1,4 @@
 {
-  "enable": 0,
-  "url": ""
+  "goto": 0,
+  "address": ""
 }
